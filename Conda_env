@@ -1,0 +1,3 @@
+conda install -c conda-forge climlab
+conda install -c conda-forge metpy
+conda install -c conda-forge ffmpeg
